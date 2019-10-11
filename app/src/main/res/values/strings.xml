@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SqliteImportAndroid</string>
+    <string-array name="vikas">
+        <item>vikas</item>
+        <item>gfgf</item>
+    </string-array>
+</resources>
